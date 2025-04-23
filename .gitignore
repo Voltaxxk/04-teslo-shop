@@ -4,7 +4,7 @@
 /build
 postgres/
 postgres-data/
-static/
+
 .env
 # Logs
 logs
