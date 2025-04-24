@@ -18,15 +18,15 @@
 docker compose up
 ```
 
-6. Ejecutar SEED
+6. Levantar el modo desarrollo
+
+```
+npm run start:dev
+```
+
+7. Ejecutar SEED
 
 ```
 localhost:3000/api/seed
 
-```
-
-7. Levantar el modo desarrollo
-
-```
-npm run start:dev
 ```
